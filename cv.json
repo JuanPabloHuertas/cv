@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "Juan Pablo Huertas Nuñez",
+    "label": "Full Stack Developer con más de 5 años de experiencia",
+    "image": "/me.jpeg",
+    "email": "juanhuertas.dev@gmail.com",
+    "phone": "+57 3203627229",
+    "url": "https://juanpablohuertas.com",
+    "summary": "Soy un desarrollador de software con experiencia en desarrollo web y móvil, especializado en frameworks como Next.js, Angular, React y NestJS. He contribuido a diversos proyectos, desde aplicaciones móviles hasta sistemas empresariales, y disfruto colaborando en equipo para diseñar soluciones innovadoras y eficientes. Me mantengo actualizado con las últimas tecnologías y tendencias del mercado. Actualmente estoy aprendiendo Golang y Astrojs para ampliar mis habilidades. Si necesitas un desarrollador creativo, proactivo y dedicado, estaré encantado de trabajar contigo para lograr tus objetivos.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Pereira",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "juanpablohuertas",
+        "url": "https://linkedin.com/in/juanpablohuertas/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JuanPabloHuertas",
+        "url": "https://github.com/JuanPabloHuertas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ilógica",
+      "position": "Frontend Developer",
+      "url": "https://www.ilogica.cl",
+      "startDate": "2021-11-22",
+      "endDate": null,
+      "summary": "Desarrollo múltiples proyectos de software a medida, desde pequeñas aplicaciones empresariales hasta soluciones web complejas para clientes de diversos sectores industriales.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Smart Data Contact",
+      "position": "Líder de Desarrollo de Software",
+      "url": "https://smartdatacontact.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2021-11-22",
+      "summary": "Guié equipos en la creación de aplicaciones web y móviles para mejorar la eficiencia empresarial.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Socios Online S.A.S",
+      "position": "Full-stack developer",
+      "startDate": "2019-05-01",
+      "endDate": "2020-07-31",
+      "summary": "Colaboré en el desarrollo de soluciones personalizadas, incluyendo aplicaciones web, móviles y de escritorio, diseñadas desde cero para mejorar la eficiencia operativa de diversas empresas.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad de Manizales",
+    "url": "https://umanizales.edu.co/",
+    "area": "Ingeniería de Sistemas",
+    "studyType": "Profesional",
+    "startDate": "2024-02-01",
+    "endDate": null
+  }, 
+  {
+    "institution": "Plataformas Online",
+    "url": null,
+    "area": "Desarollo de Software",
+    "studyType": "Autonoma",
+    "startDate": "2018-01-01",
+    "endDate": null
+  }, 
+  {
+    "institution": "Universidad de la Amazonía",
+    "url": null,
+    "area": "Ingeniería de Sistemas (Hasta 5º semestre)",
+    "studyType": "Profesional",
+    "startDate": "2016-02-01",
+    "endDate": "2018-02-01"
+  }
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": []
+}
